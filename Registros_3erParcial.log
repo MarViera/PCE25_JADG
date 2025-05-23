@@ -1,0 +1,913 @@
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "52.123.250.32",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": null,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "52.123.250.32",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": null,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+ERROR:root:Ocurrio un error en la conexion de la API: name 'respone' is not defined
+ERROR:root:Ocurrio un error en la conexion de la API: name 'scan' is not defined
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "52.123.250.32",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": null,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "52.123.250.32",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": null,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.114.25', '20.169.174.231', '20.44.10.122', '52.159.108.190', '52.167.167.231']
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.114.25', '20.169.174.231', '20.44.10.122', '52.159.108.190', '52.167.167.231']
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.113.25', '185.26.182.112', '20.169.174.231']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T20:31:20+00:00",
+        "numDistinctUsers": 100,
+        "totalReports": 246,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-113-25-iad.github.com"
+        ],
+        "ipAddress": "140.82.113.25",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-03-23T04:01:33+00:00",
+        "numDistinctUsers": 2,
+        "totalReports": 3,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:la información de la ip analizada es:
+{
+    "errors": [
+        {
+            "detail": "The ip address must be a valid IPv4 or IPv6 address (e.g. 8.8.8.8 or 2001:4860:4860::8888).",
+            "source": {
+                "parameter": "ipAddress"
+            },
+            "status": 422
+        }
+    ]
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.112.26', '20.169.174.231', '52.168.117.174']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-112-26-iad.github.com"
+        ],
+        "ipAddress": "140.82.112.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-06T11:00:21+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:la información de la ip analizada es:
+{
+    "errors": [
+        {
+            "detail": "The ip address must be a valid IPv4 or IPv6 address (e.g. 8.8.8.8 or 2001:4860:4860::8888).",
+            "source": {
+                "parameter": "ipAddress"
+            },
+            "status": 422
+        }
+    ]
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.112.26', '20.169.174.231', '20.189.173.1', '4.153.29.52', '52.168.117.174']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-112-26-iad.github.com"
+        ],
+        "ipAddress": "140.82.112.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-06T11:00:21+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.112.26', '192.168.100.37', '20.169.174.231', '20.42.73.27', '23.63.231.207']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-112-26-iad.github.com"
+        ],
+        "ipAddress": "140.82.112.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-06T11:00:21+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '13.89.178.27', '140.82.112.26', '20.169.174.231', '20.42.73.27', '23.63.231.207']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 14,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "13.89.178.27",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": "2025-05-23T21:00:32+00:00",
+        "numDistinctUsers": 2,
+        "totalReports": 22,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '13.89.178.27', '13.91.96.185', '140.82.112.26', '20.169.174.231', '20.189.173.12', '20.44.10.122']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 14,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "13.89.178.27",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": "2025-05-23T21:00:32+00:00",
+        "numDistinctUsers": 2,
+        "totalReports": 22,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
+INFO:root:la información de la ip analizada es:
+{
+    "errors": [
+        {
+            "detail": "The ip address must be a valid IPv4 or IPv6 address (e.g. 8.8.8.8 or 2001:4860:4860::8888).",
+            "source": {
+                "parameter": "ipAddress"
+            },
+            "status": 422
+        }
+    ]
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.112.26', '20.169.174.231', '20.189.173.12', '20.44.10.122']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:10:25+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 247,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-112-26-iad.github.com"
+        ],
+        "ipAddress": "140.82.112.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-06T11:00:21+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "google.com",
+        "hostnames": [
+            "dns.google"
+        ],
+        "ipAddress": "8.8.8.8",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": true,
+        "isp": "Google LLC",
+        "lastReportedAt": "2025-05-23T21:32:02+00:00",
+        "numDistinctUsers": 57,
+        "totalReports": 256,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "100.100.100.100",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Carrier-Grade NAT RFC6598",
+        "lastReportedAt": "2023-11-04T03:32:48+00:00",
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '13.107.18.254', '13.107.42.10', '13.107.6.254', '140.82.112.26', '172.176.48.21', '173.194.208.136', '20.189.173.3', '204.79.197.222', '23.63.231.207']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T21:47:37+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 250,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 12,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "13.107.18.254",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": "2025-05-22T10:46:48+00:00",
+        "numDistinctUsers": 2,
+        "totalReports": 13,
+        "usageType": "Commercial"
+    }
+}
+INFO:root:la información de la ip analizada es:
+{
+    "errors": [
+        {
+            "detail": "The ip address must be a valid IPv4 or IPv6 address (e.g. 8.8.8.8 or 2001:4860:4860::8888).",
+            "source": {
+                "parameter": "ipAddress"
+            },
+            "status": 422
+        }
+    ]
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '127.0.0.1', '140.82.112.26']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [
+            "localhost"
+        ],
+        "ipAddress": "127.0.0.1",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": null,
+        "lastReportedAt": "2025-05-23T22:00:12+00:00",
+        "numDistinctUsers": 101,
+        "totalReports": 250,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-112-26-iad.github.com"
+        ],
+        "ipAddress": "140.82.112.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-06T11:00:21+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 1,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:La lista de ip's obtenidas fueron: ['0.0.0.0', '140.82.114.25', '20.189.173.26', '20.69.137.228', '23.63.231.207', '52.167.167.231']
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": null,
+        "domain": null,
+        "hostnames": [],
+        "ipAddress": "0.0.0.0",
+        "ipVersion": 4,
+        "isPublic": false,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Broadcast RFC1700",
+        "lastReportedAt": "2025-05-20T19:41:07+00:00",
+        "numDistinctUsers": 21,
+        "totalReports": 99,
+        "usageType": "Reserved"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 8,
+        "countryCode": "US",
+        "domain": "github.com",
+        "hostnames": [
+            "lb-140-82-114-25-iad.github.com"
+        ],
+        "ipAddress": "140.82.114.25",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "GitHub, Inc.",
+        "lastReportedAt": "2025-04-17T19:33:40+00:00",
+        "numDistinctUsers": 3,
+        "totalReports": 4,
+        "usageType": "Content Delivery Network"
+    }
+}
+INFO:root:Escaneo completado, ip no sospechosa
+INFO:root:la información de la ip analizada es:
+{
+    "data": {
+        "abuseConfidenceScore": 18,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [],
+        "ipAddress": "20.189.173.26",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": "2025-05-23T22:01:06+00:00",
+        "numDistinctUsers": 3,
+        "totalReports": 8,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
